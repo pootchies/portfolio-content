@@ -1,0 +1,6 @@
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/CAN_Core.c:28:6:HAL_CAN_RxFifo0MsgPendingCallback	2
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/CAN_Core.c:53:6:_CAN_LinkLib	4
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/CAN_Core.c:71:6:CAN_Transmit	1
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/CAN_Core.c:81:6:CAN_Transmit_Ex	1
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/CAN_Core.c:94:6:CAN_Init	1
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/CAN_Core.c:116:6:_CAN_Init_Buses	4

@@ -1,0 +1,8 @@
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_Core.c:28:6:_UART_LinkLib	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_Core.c:52:6:UART_Init	8	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_Core.c:67:9:UART_Ex_Init	24	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_Core.c:101:6:HAL_UARTEx_RxEventCallback	32	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_Core.c:130:6:_UART_Printf_Num	28	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_Core.c:150:6:_UART_Printf_Inst	20	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_Core.c:160:10:_UART_Scanf_Num	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_Core.c:167:10:_UART_Scanf_Inst	24	static

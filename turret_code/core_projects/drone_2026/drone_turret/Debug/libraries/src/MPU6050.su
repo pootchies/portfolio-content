@@ -1,0 +1,13 @@
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:36:6:MPU6050_ACCEL_SENS	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:68:6:MPU6050_GYRO_SENS	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:97:6:_MPU6050_FunctionReadChecker	48	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:120:6:_MPU6050_FunctionWriteChecker	56	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:159:6:MPU6050_INIT	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:206:6:MPU6050_Update	24	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:241:7:MPU6050_get_gyro_x	4	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:244:7:MPU6050_get_gyro_y	4	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:247:7:MPU6050_get_gyro_z	4	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:250:7:MPU6050_get_accel_x	4	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:253:7:MPU6050_get_accel_y	4	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:256:7:MPU6050_get_accel_z	4	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/MPU6050.c:259:7:MPU6050_get_temp	4	static

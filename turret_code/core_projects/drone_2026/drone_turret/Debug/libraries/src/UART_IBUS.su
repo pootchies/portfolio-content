@@ -1,0 +1,13 @@
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:19:18:UART_IBUS	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:26:6:UART_IBUS_Recieve	32	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:56:9:ScalerConversion	24	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:67:9:getIBUSCH1	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:74:9:getIBUSCH2	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:80:9:getIBUSCH3	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:86:9:getIBUSCH4	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:92:9:getIBUSCH5	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:98:9:getIBUSCH6	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:104:9:getIBUSCH7	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:110:9:getIBUSCH8	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:116:9:getIBUSCH9	16	static
+C:/Github/ASN_controls_repo/c_board_repo/libraries/src/UART_IBUS.c:122:9:getIBUSCH10	16	static
