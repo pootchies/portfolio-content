@@ -4,6 +4,6 @@ STM32/FreeRTOS firmware for the 17 mm turret carried by SFU Ascension Robotics' 
 
 Gyro-stabilized pitch and yaw so the barrel holds an inertial heading while the airframe moves under it, plus flywheel ramping and indexer jam detection. Stick input over IBUS.
 
-This is the turret code only — the drone's flight control runs separately on a Pixhawk 6C Mini in ArduPilot. The CAN/UART/IMU libraries it calls into are club-internal and aren't included here, so this won't build standalone.
+This is the turret code only — the drone's flight control runs separately on a Pixhawk 6C Mini in ArduPilot. All necessary libraries are included, internally developed by SFU Ascension Robotics.
 
 Writeup and build details: [sites.google.com/view/danny-wang](https://sites.google.com/view/danny-wang/ascension-robotics-quadcopter)
