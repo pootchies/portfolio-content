@@ -6,6 +6,6 @@ Gyro-stabilized pitch and yaw so the barrel holds an inertial heading while the 
 
 This is the turret code only. The drone's flight control runs separately on a Pixhawk 6C Mini in ArduPilot. All necessary libraries are included, internally developed by SFU Ascension Robotics.
 
-Writeup and build details: [sites.google.com/view/danny-wang](https://sites.google.com/view/danny-wang/ascension-robotics-quadcopter)
+Writeup and build details: [danny-wang.com](danny-wang.com/ascension-robotics-quadcopter)
 
 See main code content: [main.c](core_projects/drone_2026/drone_turret/Core/Src/main.c)
