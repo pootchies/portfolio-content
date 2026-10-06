@@ -8,4 +8,4 @@ This is the turret code only. The drone's flight control runs separately on a Pi
 
 Writeup and build details: [sites.google.com/view/danny-wang](https://sites.google.com/view/danny-wang/ascension-robotics-quadcopter)
 
-See main.c: [main.c](core_projects/drone_2026/drone_turret/Core/Src/main.c)
+See main code content: [main.c](core_projects/drone_2026/drone_turret/Core/Src/main.c)
